@@ -1,6 +1,6 @@
 # [Shopping Cart](https://danilocanuto.github.io/Shopping-Cart)
 
-<file src="standalone.html"/>
+<file src="index.html"/>
 
 In this exercise, the objective was to create a fully operational Tic-Tac-Toe game using React.
 
